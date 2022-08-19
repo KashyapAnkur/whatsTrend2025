@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Kanit&family=Montserrat:wght@400;900&family=Oswald:wght@600;700&display=swap');
 body {
     overflow: hidden;
+    font-family: Orbitron;
 }
 .container {
     height: 90vh;
@@ -68,6 +69,7 @@ body {
     font-size: 23px;
     border-radius: 13px;
     background-color: transparent;
+    font-family: Poppins;
 }
 
 .hero-container {
@@ -111,20 +113,21 @@ body {
 }
 
 .hero-container-right {
-    /* display: flex; */
     padding: 70px;
-    padding-left: 90px;
+    padding-left: 80px;
 }
 
 .hero-heading {
-    font-size: 60px;
+    font-size: 55px;
     display: block;
     margin: auto;
     text-align: center;
 }
 
 .hero-description {
-    width: 60%;
+    width: 75%;
+    font-size: 13px;
+    font-family: Poppins;
     text-align: center;
     display: block;
     margin: auto;
@@ -170,6 +173,7 @@ body {
     color: #414141;
     font-size: 21px;
     font-weight: 500;
+    font-family: Poppins;
 }
 
 .icons span {
